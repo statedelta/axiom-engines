@@ -1,6 +1,17 @@
 {
   "engine": "axiom",
-  "latest": null,
-  "channels": {},
-  "versions": []
+  "latest": "0.3.0",
+  "channels": {
+    "0.3": "0.3.0"
+  },
+  "versions": [
+    {
+      "version": "0.3.0",
+      "file": "engine-0.3.0.cjs",
+      "size": 357847,
+      "sha256": "926af3877212673a396c5c334604a55edd219d047796d1bcc571b10bc4fce431",
+      "built": "2026-05-20T14:13:53.680Z",
+      "url": "https://github.com/statedelta/axiom-engines/releases/download/v0.3.0/engine-0.3.0.cjs"
+    }
+  ]
 }
