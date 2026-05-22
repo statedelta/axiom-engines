@@ -1,8 +1,9 @@
 {
   "engine": "axiom",
-  "latest": "0.3.0",
+  "latest": "0.4.0",
   "channels": {
-    "0.3": "0.3.0"
+    "0.3": "0.3.0",
+    "0.4": "0.4.0"
   },
   "versions": [
     {
@@ -12,6 +13,14 @@
       "sha256": "926af3877212673a396c5c334604a55edd219d047796d1bcc571b10bc4fce431",
       "built": "2026-05-20T14:13:53.680Z",
       "url": "https://github.com/statedelta/axiom-engines/releases/download/v0.3.0/engine-0.3.0.cjs"
+    },
+    {
+      "version": "0.4.0",
+      "file": "engine-0.4.0.cjs",
+      "size": 358238,
+      "sha256": "44dc936fdbabaf58a656cd19bf6cb6854e3d649d2ddc23c392788915374a4465",
+      "built": "2026-05-22T03:34:01.814Z",
+      "url": "https://github.com/statedelta/axiom-engines/releases/download/v0.4.0/engine-0.4.0.cjs"
     }
   ]
 }
